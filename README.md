@@ -21,12 +21,11 @@ A modern and responsive News Aggregator web app built with **React**. It fetches
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/news-aggregator.git
-   cd news-aggregator
+   git clone https://github.com/SayakSaha2002/news-aggregator-react-javascript.git
+   cd news-aggregator-react-javascript
    ```
 
 2. **Install dependencies**
-
 ```bash
 npm install
 Set up environment variables
@@ -55,3 +54,15 @@ news-aggregator/
 
 ## Snapshot
 ![Image](https://github.com/user-attachments/assets/f53fe3c4-af05-4943-9e69-2680dfffc486)
+
+
+## 🤝 Contributing
+Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
+
+## 📄 License
+MIT
+
+## 🙌 Acknowledgements
+
+- NewsAPI.org
+- React
